@@ -7,6 +7,7 @@
 - install dependencies:
 
     ``leftwm alacritty feh picom polybar``
+    *also look at jonaburg picom fork if you want animations*
 
  - clone theme to config folder
     ```
