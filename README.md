@@ -19,3 +19,7 @@
     ```
 
 -   reload leftwm
+
+### see:
+my dotfiles to fully match the horizon look
+    https://github.com/vesdev/dotfiles
