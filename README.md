@@ -1,5 +1,7 @@
 # leftwm-horizon-dark
-horizon-dark inspired theme for leftwm
+<p align="center">horizon-dark inspired theme for leftwm</p>
+<p align="center"><img src="https://i.imgur.com/RoRgnXP_d.webp?maxwidth=760&fidelity=grand"/></p>
+
 
 ## installation
 - install dependencies:
